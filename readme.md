@@ -8,7 +8,7 @@
 
 ---
 
-[help me live](https://github.com/chinanf-boy/live-need-money)
+[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
 
 ### 翻译复杂级别
 
