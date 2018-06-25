@@ -52,7 +52,7 @@
 
 [「 Didact 」 a DIY guide to build your own React 手动做React 贼厉害吧->翻译](https://github.com/chinanf-boy/didact-explain)
 
-> 🔗[`didact`英文链接](https://github.com/ronami/minipack)
+> 🔗[`didact`英文链接](https://github.com/hexacta/didact)
 
 ### react-beautiful-dnd
 
