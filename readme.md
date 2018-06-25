@@ -8,11 +8,7 @@
 
 ---
 
-穷
-
-<a href="https://patreon.com/yobrave">
-<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" height="30">
-</a>
+[help me live](https://github.com/chinanf-boy/live-need-money)
 
 ### 翻译复杂级别
 
