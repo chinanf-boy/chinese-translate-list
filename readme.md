@@ -27,6 +27,7 @@
   - [minipacks](#minipacks)
   - [didact](#didact)
   - [react-beautiful-dnd](#react-beautiful-dnd)
+  - [react-from-zero](#react-from-zero)
 - [1. rust](#1-rust)
   - [gentle-intro](#gentle-intro)
 - [Welcome Issue or Pull](#welcome-issue-or-pull)
@@ -40,7 +41,7 @@
 
 ### minipacks 
 
-- [![low](./low.svg)📖] `explain`
+- [![low](./low.svg)📖] `explain` `bundle`
 
 [simple bundle 捆绑器 示例 「翻译」](https://github.com/chinanf-boy/minipack-explain)
 
@@ -48,7 +49,7 @@
 
 ### didact 
 
-- [![medium](./medium.svg)📖] `explain`
+- [![medium](./medium.svg)📖] `explain` `react`
 
 [「 Didact 」 a DIY guide to build your own React 手动做React 贼厉害吧->翻译](https://github.com/chinanf-boy/didact-explain)
 
@@ -56,11 +57,20 @@
 
 ### react-beautiful-dnd
 
-- [![medium](./medium.svg)📖] `docs`
+- [![medium](./medium.svg)📖] `docs` `react`
 
 [react-beautiful-dnd 漂亮,可移植性 列表 React.js 拖拽库 文档 「翻译」](https://github.com/chinanf-boy/react-beautiful-dnd-zh)
 
 > 🔗[`react-beautiful-dnd`英文链接](https://github.com/atlassian/react-beautiful-dnd)
+
+### react-from-zero
+
+- [![medium](./medium.svg)📖] `example-explain` `react`
+
+[react-from-zero React 简单 (至少99% ES2015 ) 例子「翻译」](https://github.com/chinanf-boy/react-from-zero)
+
+> 🔗[`react-from-zero`英文链接](https://github.com/kay-is/react-from-zero)
+
 
 ## 1. rust
 
