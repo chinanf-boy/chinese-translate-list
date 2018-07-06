@@ -30,6 +30,7 @@
   - [react-from-zero](#react-from-zero)
 - [1. rust](#1-rust)
   - [gentle-intro](#gentle-intro)
+  - [rustwasm-book](#rustwasm-book)
 - [Welcome Issue or Pull](#welcome-issue-or-pull)
 - [tool: 绝大多数情况, 我会使用 translate-mds 完成初稿](#tool-%E7%BB%9D%E5%A4%A7%E5%A4%9A%E6%95%B0%E6%83%85%E5%86%B5-%E6%88%91%E4%BC%9A%E4%BD%BF%E7%94%A8-translate-mds-%E5%AE%8C%E6%88%90%E5%88%9D%E7%A8%BF)
 
@@ -81,6 +82,14 @@
 [温柔{绅士}地介绍 rust 「翻译」](https://github.com/chinanf-boy/gentle-intro)
 
 > 🔗[`gentle-intro`英文链接](https://github.com/stevedonovan/gentle-intro)
+
+### rustwasm-book 
+
+- [![high](./high.svg)📖] `book`
+
+[ Rust and WebAssembly 不得不说的秘密㊙️ 「翻译」](https://github.com/chinanf-boy/rustwasm-book)
+
+> 🔗[`rustwasm-book`英文链接](https://github.com/rustwasm/book)
 
 
 ## Welcome Issue or Pull
