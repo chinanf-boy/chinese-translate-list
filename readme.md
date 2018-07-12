@@ -24,7 +24,7 @@
 
 
 - [0. js](#0-js)
-  - [minipacks](#minipacks)
+  - [minipack](#minipack)
   - [didact](#didact)
   - [react-beautiful-dnd](#react-beautiful-dnd)
   - [react-from-zero](#react-from-zero)
@@ -41,13 +41,13 @@
 
 ## 0. js
 
-### minipacks 
+### minipack 
 
 - [![minipack-explain-stars]][minipack-explain] | [![low](./low.svg)📖] `explain` `bundle`
 
 [simple bundle 捆绑器 示例 「翻译」][minipack-explain]
 
-> 🔗[`minipacks`英文链接](https://github.com/ronami/minipack)
+> 🔗[`minipack`英文链接](https://github.com/ronami/minipack)
 
 [minipack-explain-stars]: https://img.shields.io/github/stars/chinanf-boy/minipack-explain.svg
 [minipack-explain]: https://github.com/chinanf-boy/minipack-explain
