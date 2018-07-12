@@ -28,6 +28,7 @@
   - [didact](#didact)
   - [react-beautiful-dnd](#react-beautiful-dnd)
   - [react-from-zero](#react-from-zero)
+  - [react-values](#react-values)
 - [1. rust](#1-rust)
   - [gentle-intro](#gentle-intro)
   - [rustwasm-book](#rustwasm-book)
@@ -42,54 +43,83 @@
 
 ### minipacks 
 
-- [![low](./low.svg)📖] `explain` `bundle`
+- [![minipack-explain-stars]][minipack-explain] | [![low](./low.svg)📖] `explain` `bundle`
 
-[simple bundle 捆绑器 示例 「翻译」](https://github.com/chinanf-boy/minipack-explain)
+[simple bundle 捆绑器 示例 「翻译」][minipack-explain]
 
 > 🔗[`minipacks`英文链接](https://github.com/ronami/minipack)
 
+[minipack-explain-stars]: https://img.shields.io/github/stars/chinanf-boy/minipack-explain.svg
+[minipack-explain]: https://github.com/chinanf-boy/minipack-explain
+
 ### didact 
 
-- [![medium](./medium.svg)📖] `explain` `react`
+- [![didact-explain-stars]][didact-explain] | [![medium](./medium.svg)📖] `explain` `react`
 
-[「 Didact 」 a DIY guide to build your own React 手动做React 贼厉害吧->翻译](https://github.com/chinanf-boy/didact-explain)
+[「 Didact 」 a DIY guide to build your own React 手动做React 贼厉害吧->翻译][didact-explain]
 
 > 🔗[`didact`英文链接](https://github.com/hexacta/didact)
 
+[didact-explain-stars]: https://img.shields.io/github/stars/chinanf-boy/didact-explain.svg
+[didact-explain]: https://github.com/chinanf-boy/didact-explain
+
 ### react-beautiful-dnd
 
-- [![medium](./medium.svg)📖] `docs` `react`
+- [![react-beautiful-dnd-zh-stars]][react-beautiful-dnd-zh] | [![medium](./medium.svg)📖] `docs` `react`
 
-[react-beautiful-dnd 漂亮,可移植性 列表 React.js 拖拽库 文档 「翻译」](https://github.com/chinanf-boy/react-beautiful-dnd-zh)
+[react-beautiful-dnd 漂亮,可移植性 列表 React.js 拖拽库 文档 「翻译」][react-beautiful-dnd-zh]
 
 > 🔗[`react-beautiful-dnd`英文链接](https://github.com/atlassian/react-beautiful-dnd)
 
+[react-beautiful-dnd-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/react-beautiful-dnd-zh.svg
+[react-beautiful-dnd-zh]: https://github.com/chinanf-boy/react-beautiful-dnd-zh
+
 ### react-from-zero
 
-- [![medium](./medium.svg)📖] `example-explain` `react`
+- [![react-from-zero-stars]][react-from-zero] | [![medium](./medium.svg)📖] `example-explain` `react`
 
-[react-from-zero React 简单 (至少99% ES2015 ) 例子「翻译」](https://github.com/chinanf-boy/react-from-zero)
+[react-from-zero React 简单 (至少99% ES2015 ) 例子「翻译」][react-from-zero]
 
 > 🔗[`react-from-zero`英文链接](https://github.com/kay-is/react-from-zero)
+
+[react-from-zero-stars]: https://img.shields.io/github/stars/chinanf-boy/react-from-zero.svg
+[react-from-zero]: https://github.com/chinanf-boy/react-from-zero
+
+### react-values 
+
+- [![react-values-zh-stars]][react-values-zh] | [![low](./low.svg)📖] - [![medium](./medium.svg)📖] `docs` `react`
+
+[react-values {一组简单,可组合的帮助程序 }][react-values-zh]
+
+> 🔗[`react-values`英文链接](https://github.com/ianstormtaylor/react-values)
+
+[react-values-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/react-values-zh.svg
+[react-values-zh]: https://github.com/chinanf-boy/react-values-zh
 
 
 ## 1. rust
 
 ### gentle-intro 
 
-- [![high](./high.svg)📖] `book`
+- [![gentle-intro-stars]][gentle-intro] | [![high](./high.svg)📖] `book`
 
-[温柔{绅士}地介绍 rust 「翻译」](https://github.com/chinanf-boy/gentle-intro)
+[温柔{绅士}地介绍 rust 「翻译」][gentle-intro]
 
 > 🔗[`gentle-intro`英文链接](https://github.com/stevedonovan/gentle-intro)
 
+[gentle-intro-stars]: https://img.shields.io/github/stars/chinanf-boy/gentle-intro.svg
+[gentle-intro]: https://github.com/chinanf-boy/gentle-intro
+
 ### rustwasm-book 
 
-- [![high](./high.svg)📖] `book`
+- [![rustwasm-book-stars]][rustwasm-book] | [![high](./high.svg)📖] `book`
 
-[ Rust and WebAssembly 不得不说的秘密㊙️ 「翻译」](https://github.com/chinanf-boy/rustwasm-book)
+[ Rust and WebAssembly 不得不说的秘密㊙️ 「翻译」][rustwasm-book]
 
 > 🔗[`rustwasm-book`英文链接](https://github.com/rustwasm/book)
+
+[rustwasm-book-stars]: https://img.shields.io/github/stars/chinanf-boy/rustwasm-book.svg
+[rustwasm-book]: https://github.com/chinanf-boy/rustwasm-book
 
 
 ## Welcome Issue or Pull
