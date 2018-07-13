@@ -32,6 +32,8 @@
 - [1. rust](#1-rust)
   - [gentle-intro](#gentle-intro)
   - [rustwasm-book](#rustwasm-book)
+- [2. ipfs](#2-ipfs)
+  - [ipfs/ipfs](#ipfsipfs)
 - [Welcome Issue or Pull](#welcome-issue-or-pull)
 - [tool: 绝大多数情况, 我会使用 translate-mds 完成初稿](#tool-%E7%BB%9D%E5%A4%A7%E5%A4%9A%E6%95%B0%E6%83%85%E5%86%B5-%E6%88%91%E4%BC%9A%E4%BD%BF%E7%94%A8-translate-mds-%E5%AE%8C%E6%88%90%E5%88%9D%E7%A8%BF)
 
@@ -121,6 +123,18 @@
 [rustwasm-book-stars]: https://img.shields.io/github/stars/chinanf-boy/rustwasm-book.svg
 [rustwasm-book]: https://github.com/chinanf-boy/rustwasm-book
 
+## 2. ipfs
+
+### ipfs/ipfs
+
+- [![ipfs-zh-stars]][ipfs-zh] | [![medium](./medium.svg)📖]  `docs` `world`
+
+[ipfs: 一种点对点超媒体协议,使网络更快,更安全,更开放. 「翻译」][ipfs-zh]
+
+> 🔗[`ipfs`英文链接](https://github.com/ipfs/ipfs)
+
+[ipfs-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/ipfs-zh.svg
+[ipfs-zh]: https://github.com/chinanf-boy/ipfs-zh
 
 ## Welcome Issue or Pull
 
