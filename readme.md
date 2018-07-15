@@ -1,4 +1,8 @@
-# translate-list
+# translate-list [![translate-svg]][translate-list]
+
+[translate-svg]: http://llever.com/translate.svg
+[translate-list]: https://github.com/chinanf-boy/chinese-translate-list
+
 
 「 在这里是, 我翻译的项目 」
 
