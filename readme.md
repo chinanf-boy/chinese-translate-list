@@ -34,6 +34,7 @@
   - [rustwasm-book](#rustwasm-book)
 - [2. ipfs](#2-ipfs)
   - [ipfs/ipfs](#ipfsipfs)
+  - [ipfs/go-ipfs](#ipfsgo-ipfs)
 - [Welcome Issue or Pull](#welcome-issue-or-pull)
 - [tool: 绝大多数情况, 我会使用 translate-mds 完成初稿](#tool-%E7%BB%9D%E5%A4%A7%E5%A4%9A%E6%95%B0%E6%83%85%E5%86%B5-%E6%88%91%E4%BC%9A%E4%BD%BF%E7%94%A8-translate-mds-%E5%AE%8C%E6%88%90%E5%88%9D%E7%A8%BF)
 
@@ -135,6 +136,18 @@
 
 [ipfs-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/ipfs-zh.svg
 [ipfs-zh]: https://github.com/chinanf-boy/ipfs-zh
+
+### ipfs/go-ipfs
+
+- [![go-ipfs-zh-stars]][go-ipfs-zh] | [![medium](./medium.svg)📖]-[![high](./high.svg)📖]  `docs` `world` `app`
+
+[go-ipfs: ipfs协议实现,Go语言. 「翻译」][go-ipfs-zh]
+
+> 🔗[`go-ipfs`英文链接](https://github.com/ipfs/go-ipfs)
+
+[go-ipfs-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/go-ipfs-zh.svg
+[go-ipfs-zh]: https://github.com/chinanf-boy/go-ipfs-zh
+
 
 ## Welcome Issue or Pull
 
