@@ -33,6 +33,7 @@
   - [react-beautiful-dnd](#react-beautiful-dnd)
   - [react-from-zero](#react-from-zero)
   - [react-values](#react-values)
+  - [guppy](#guppy)
 - [1. rust](#1-rust)
   - [gentle-intro](#gentle-intro)
   - [rustwasm-book](#rustwasm-book)
@@ -102,6 +103,19 @@
 
 [react-values-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/react-values-zh.svg
 [react-values-zh]: https://github.com/chinanf-boy/react-values-zh
+
+### guppy 
+
+- [![guppy-docs-zh-stars]][guppy-docs-zh] | [![low](./low.svg)📖] - [![medium](./medium.svg)📖] `desktop` `react` `docs` `新人友好`
+
+[guppy { React.js的友好应用程序管理器和任务运行器 }][guppy-docs-zh]
+
+> 🔗[`guppy`英文链接](https://github.com/joshwcomeau/guppy)
+
+[guppy-docs-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/guppy-docs-zh.svg
+[guppy-docs-zh]: https://github.com/chinanf-boy/guppy-docs-zh
+
+
 
 
 ## 1. rust
