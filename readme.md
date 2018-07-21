@@ -34,9 +34,11 @@
   - [react-from-zero](#react-from-zero)
   - [react-values](#react-values)
   - [guppy](#guppy)
+  - [learnstorybook.com](#learnstorybookcom)
 - [1. rust](#1-rust)
   - [gentle-intro](#gentle-intro)
   - [rustwasm-book](#rustwasm-book)
+  - [robinson](#robinson)
 - [2. ipfs](#2-ipfs)
   - [ipfs/ipfs](#ipfsipfs)
   - [ipfs/go-ipfs](#ipfsgo-ipfs)
@@ -115,8 +117,17 @@
 [guppy-docs-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/guppy-docs-zh.svg
 [guppy-docs-zh]: https://github.com/chinanf-boy/guppy-docs-zh
 
+### learnstorybook.com 
 
+- [![learnstorybook.com-zh-stars]][learnstorybook.com-zh] | [![medium](./medium.svg)📖] `学习` `storybook` `新人友好`
 
+[学习 storybook, 通过 静态网站和好的内容 ][learnstorybook.com-zh]
+
+> 🔗[`learnstorybook.com`英文链接](https://github.com/chromaui/learnstorybook.com)
+
+[learnstorybook.com-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/learnstorybook.com-zh.svg
+[learnstorybook.com-zh]: https://github.com/chinanf-boy/learnstorybook.com-zh
+·
 
 ## 1. rust
 
@@ -141,6 +152,18 @@
 
 [rustwasm-book-stars]: https://img.shields.io/github/stars/chinanf-boy/rustwasm-book.svg
 [rustwasm-book]: https://github.com/chinanf-boy/rustwasm-book
+
+### robinson 
+
+- [![robinson-stars]][robinson] | [![high](./high.svg)📖] `book` `explain`
+
+[ 使用 rust 构建自己的 网络渲染引擎 「翻译」][robinson]
+
+> 🔗[`robinson`英文链接](https://github.com/mbrubeck/robinson)
+
+[robinson-stars]: https://img.shields.io/github/stars/chinanf-boy/robinson-zh.svg
+[robinson]: https://github.com/chinanf-boy/robinson-zh
+
 
 ## 2. ipfs
 
