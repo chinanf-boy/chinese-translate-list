@@ -256,6 +256,7 @@ git diff HEAD 9fdf6d1 readme.md >> my.patch
 
 3. 项目 留有的 源md文件, 通过直接将新的commit md文件覆盖, 然后翻译即可
 
+>⚠️ 注意: 更新 新的 commit 🔗
 
 
 ## tool: 绝大多数情况, 我会使用 [translate-mds](https://github.com/chinanf-boy/translate-mds) 完成初稿
