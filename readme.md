@@ -46,7 +46,7 @@
   - [TypeScript-React-Starter](#typescript-react-starter)
   - [TypeScript-Node-Starter](#typescript-node-starter)
   - [TypeScript-Vue-Starter](#typescript-vue-starter)
-- [Welcome Issue or Pull](#welcome-issue-or-pull)
+- [贡献](#%E8%B4%A1%E7%8C%AE)
 - [tool: 绝大多数情况, 我会使用 translate-mds 完成初稿](#tool-%E7%BB%9D%E5%A4%A7%E5%A4%9A%E6%95%B0%E6%83%85%E5%86%B5-%E6%88%91%E4%BC%9A%E4%BD%BF%E7%94%A8-translate-mds-%E5%AE%8C%E6%88%90%E5%88%9D%E7%A8%BF)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -230,8 +230,32 @@
 
 
 
-## Welcome Issue or Pull
+## 贡献
 
 `Issue` or `Pull` 😊
+
+一般来说, 翻译贡献有 三个
+
+- 勘误
+- 校对
+- 更新
+
+重点讲讲 更新
+
+我会在, 翻译repo的开头, 放至 源项目的 commit
+
+1. `git diff`
+
+``` sh
+git diff HEAD 9fdf6d1 readme.md >> my.patch
+```
+
+2. `vscode 和 gitlen`
+
+简单, 观察
+
+3. 项目 留有的 源md文件, 通过直接将新的commit md文件覆盖, 然后翻译即可
+
+
 
 ## tool: 绝大多数情况, 我会使用 [translate-mds](https://github.com/chinanf-boy/translate-mds) 完成初稿
