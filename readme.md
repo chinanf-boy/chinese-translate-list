@@ -35,10 +35,14 @@
   - [react-values](#react-values)
   - [guppy](#guppy)
   - [learnstorybook.com](#learnstorybookcom)
+  - [taskbook](#taskbook)
+  - [terminalizer](#terminalizer)
+  - [ffmpeg-concat](#ffmpeg-concat)
 - [1. rust](#1-rust)
   - [gentle-intro](#gentle-intro)
   - [rustwasm-book](#rustwasm-book)
   - [robinson](#robinson)
+  - [rust-ffi-omnibus](#rust-ffi-omnibus)
 - [2. ipfs](#2-ipfs)
   - [ipfs/ipfs](#ipfsipfs)
   - [ipfs/go-ipfs](#ipfsgo-ipfs)
@@ -46,6 +50,9 @@
   - [TypeScript-React-Starter](#typescript-react-starter)
   - [TypeScript-Node-Starter](#typescript-node-starter)
   - [TypeScript-Vue-Starter](#typescript-vue-starter)
+- [4. awesome](#4-awesome)
+  - [awesome-puppeteer](#awesome-puppeteer)
+  - [awesome-hacking](#awesome-hacking)
 - [贡献](#%E8%B4%A1%E7%8C%AE)
 - [tool: 绝大多数情况, 我会使用 translate-mds 完成初稿](#tool-%E7%BB%9D%E5%A4%A7%E5%A4%9A%E6%95%B0%E6%83%85%E5%86%B5-%E6%88%91%E4%BC%9A%E4%BD%BF%E7%94%A8-translate-mds-%E5%AE%8C%E6%88%90%E5%88%9D%E7%A8%BF)
 
@@ -131,7 +138,40 @@
 
 [learnstorybook.com-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/learnstorybook.com-zh.svg
 [learnstorybook.com-zh]: https://github.com/chinanf-boy/learnstorybook.com-zh
-·
+
+### taskbook 
+
+- [![taskbook-zh-stars]][taskbook-zh] | [![low](./low.svg) - ![medium](./medium.svg)📖] `cli` `task-list` `docs`
+
+[📓命令行的任务，板块 和 笔记 「翻译」 ][taskbook-zh]
+
+> 🔗[`taskbook`英文链接](https://github.com/klauscfhq/taskbook)
+
+[taskbook-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/taskbook-zh.svg
+[taskbook-zh]: https://github.com/chinanf-boy/taskbook-zh
+
+### terminalizer 
+
+- [![terminalizer-zh-stars]][terminalizer-zh] | [![low](./low.svg) - ![medium](./medium.svg)📖] `terminal` `record` `gif` `docs`
+
+[📓录制 你的 terminal 和 生成 gif 文件 , {找了好久} 「翻译」 ][terminalizer-zh]
+
+> 🔗[`terminalizer`英文链接](https://github.com/faressoft/terminalizer)
+
+[terminalizer-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/terminalizer-zh.svg
+[terminalizer-zh]: https://github.com/chinanf-boy/terminalizer-zh
+
+### ffmpeg-concat 
+
+- [![ffmpeg-concat-zh-stars]][ffmpeg-concat-zh] | [![low](./low.svg) - ![medium](./medium.svg)📖] `videos` `concat` `docs`
+
+[拼接 一组视频.,通过使用 ffmpeg和 性感的 OpenGL 过渡 (动画效果)「翻译」 ][ffmpeg-concat-zh]
+
+> 🔗[`ffmpeg-concat`英文链接](https://github.com/transitive-bullshit/ffmpeg-concat)
+
+[ffmpeg-concat-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/ffmpeg-concat-zh.svg
+[ffmpeg-concat-zh]: https://github.com/chinanf-boy/ffmpeg-concat-zh
+
 
 ## 1. rust
 
@@ -167,6 +207,17 @@
 
 [robinson-stars]: https://img.shields.io/github/stars/chinanf-boy/robinson-zh.svg
 [robinson]: https://github.com/chinanf-boy/robinson-zh
+
+### rust-ffi-omnibus 
+
+- [![rust-ffi-omnibus-stars]][rust-ffi-omnibus] | [![high](./high.svg)📖] `book` `ffi`
+
+[ 将 Rust 代码 导出, 应用于 其他语言 的例子集合  「翻译」][rust-ffi-omnibus]
+
+> 🔗[`rust-ffi-omnibus`英文链接](http://jakegoulding.com/rust-ffi-omnibus/)
+
+[rust-ffi-omnibus-stars]: https://img.shields.io/github/stars/chinanf-boy/rust-ffi-omnibus.svg
+[rust-ffi-omnibus]: https://github.com/chinanf-boy/rust-ffi-omnibus
 
 
 ## 2. ipfs
@@ -227,6 +278,30 @@
 
 [TypeScript-Vue-Starter-stars]: https://img.shields.io/github/stars/chinanf-boy/TypeScript-Vue-Starter.svg
 [TypeScript-Vue-Starter]: https://github.com/chinanf-boy/TypeScript-Vue-Starter
+
+## 4. awesome
+
+### awesome-puppeteer
+
+- [![awesome-puppeteer-zh-stars]][awesome-puppeteer-zh] | [![low](./low.svg)📖] 
+
+[ Puppeteer 资源的精选列表   「翻译」][awesome-puppeteer-zh]
+
+> 🔗[`awesome-puppeteer`英文链接](https://github.com/transitive-bullshit/awesome-puppeteer)
+
+[awesome-puppeteer-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/awesome-puppeteer-zh.svg
+[awesome-puppeteer-zh]: https://github.com/chinanf-boy/awesome-puppeteer-zh
+
+### awesome-hacking 
+
+- [![awesome-hacking-stars]][awesome-hacking] | [![low](./low.svg)📖] 
+
+[ Hacking 教程, 工具🔧 and 资源 👍精选列表    「翻译」][awesome-hacking]
+
+> 🔗[`awesome-hacking`英文链接](https://github.com/carpedm20/awesome-hacking)
+
+[awesome-hacking-stars]: https://img.shields.io/github/stars/chinanf-boy/awesome-hacking.svg
+[awesome-hacking]: https://github.com/chinanf-boy/awesome-hacking
 
 
 
