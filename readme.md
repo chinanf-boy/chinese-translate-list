@@ -88,27 +88,31 @@
   - [taskbook](#taskbook)
   - [terminalizer](#terminalizer)
   - [ffmpeg-concat](#ffmpeg-concat)
+  - [javascript-algorithms](#javascript-algorithms)
+  - [react-loadable](#react-loadable)
 - [1. rust](#1-rust)
   - [gentle-intro](#gentle-intro)
   - [rustwasm-book](#rustwasm-book)
   - [robinson](#robinson)
   - [rust-ffi-omnibus](#rust-ffi-omnibus)
-- [2. ipfs](#2-ipfs)
+- [2. go](#2-go)
+  - [gx](#gx)
+- [3. ipfs](#3-ipfs)
   - [ipfs/ipfs](#ipfsipfs)
   - [ipfs/go-ipfs](#ipfsgo-ipfs)
-- [3. ts](#3-ts)
+- [4. ts](#4-ts)
   - [TypeScript-React-Starter](#typescript-react-starter)
   - [TypeScript-Node-Starter](#typescript-node-starter)
   - [TypeScript-Vue-Starter](#typescript-vue-starter)
-- [4. awesome](#4-awesome)
+- [5. awesome](#5-awesome)
   - [awesome-puppeteer](#awesome-puppeteer)
   - [awesome-hacking](#awesome-hacking)
+  - [awesome-electron](#awesome-electron)
 - [贡献](#%E8%B4%A1%E7%8C%AE)
-- [tool: 绝大多数情况, 我会使用 translate-mds 完成初稿](#tool-%E7%BB%9D%E5%A4%A7%E5%A4%9A%E6%95%B0%E6%83%85%E5%86%B5-%E6%88%91%E4%BC%9A%E4%BD%BF%E7%94%A8-translate-mds-%E5%AE%8C%E6%88%90%E5%88%9D%E7%A8%BF)
+  - [重点讲讲 更新](#%E9%87%8D%E7%82%B9%E8%AE%B2%E8%AE%B2-%E6%9B%B4%E6%96%B0)
+  - [我翻译的结构](#%E6%88%91%E7%BF%BB%E8%AF%91%E7%9A%84%E7%BB%93%E6%9E%84)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
----
 
 ## 0. js
 
@@ -222,6 +226,28 @@
 [ffmpeg-concat-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/ffmpeg-concat-zh.svg
 [ffmpeg-concat-zh]: https://github.com/chinanf-boy/ffmpeg-concat-zh
 
+### javascript-algorithms 
+
+- [![javascript-algorithms-zh-stars]][javascript-algorithms-zh] | [![high](./high.svg)![high](./high.svg)![high](./high.svg)📖] `algorithms` `data structures`
+
+[JavaScript 算法与数据结构「翻译」 ][javascript-algorithms-zh]
+
+> 🔗[`javascript-algorithms`英文链接](https://github.com/trekhleb/javascript-algorithms)
+
+[javascript-algorithms-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/javascript-algorithms-zh.svg
+[javascript-algorithms-zh]: https://github.com/chinanf-boy/javascript-algorithms-zh
+
+### react-loadable 
+
+- [![react-loadable-zh-stars]][react-loadable-zh] | [![high](./high.svg)📖] `algorithms` `data structures`
+
+[组件的动态导入与加载 的 高级组件「翻译」 ][react-loadable-zh]
+
+> 🔗[`react-loadable`英文链接](https://github.com/jamiebuilds/react-loadable)
+
+[react-loadable-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/react-loadable-zh.svg
+[react-loadable-zh]: https://github.com/chinanf-boy/react-loadable-zh
+
 
 ## 1. rust
 
@@ -270,7 +296,21 @@
 [rust-ffi-omnibus]: https://github.com/chinanf-boy/rust-ffi-omnibus
 
 
-## 2. ipfs
+## 2. go
+
+### gx
+
+- [![gx-zh-stars]][gx-zh] | [![low](./low.svg)-![medium](./medium.svg)📖]  `docs` `pkg management`
+
+[gx: 与语言无关的通用包管理器 「翻译」][gx-zh]
+
+> 🔗[`gx`英文链接](https://github.com/whyrusleeping/gx)
+
+[gx-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/gx-zh.svg
+[gx-zh]: https://github.com/chinanf-boy/gx-zh
+
+
+## 3. ipfs
 
 ### ipfs/ipfs
 
@@ -294,7 +334,7 @@
 [go-ipfs-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/go-ipfs-zh.svg
 [go-ipfs-zh]: https://github.com/chinanf-boy/go-ipfs-zh
 
-## 3. ts
+## 4. ts
 
 ### TypeScript-React-Starter 
 
@@ -329,7 +369,7 @@
 [TypeScript-Vue-Starter-stars]: https://img.shields.io/github/stars/chinanf-boy/TypeScript-Vue-Starter.svg
 [TypeScript-Vue-Starter]: https://github.com/chinanf-boy/TypeScript-Vue-Starter
 
-## 4. awesome
+## 5. awesome
 
 ### awesome-puppeteer
 
@@ -352,6 +392,17 @@
 
 [awesome-hacking-stars]: https://img.shields.io/github/stars/chinanf-boy/awesome-hacking.svg
 [awesome-hacking]: https://github.com/chinanf-boy/awesome-hacking
+
+### awesome-electron
+
+- [![awesome-electron-zh-stars]][awesome-electron-zh] | [![low](./low.svg)-![medium](./medium.svg)📖] 
+
+[ electron 资源的精选列表   「翻译」][awesome-electron-zh]
+
+> 🔗[`awesome-electron`英文链接](https://github.com/sindresorhus/awesome-electron)
+
+[awesome-electron-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/awesome-electron-zh.svg
+[awesome-electron-zh]: https://github.com/chinanf-boy/awesome-electron-zh
 
 
 
