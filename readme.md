@@ -90,6 +90,8 @@
   - [ffmpeg-concat](#ffmpeg-concat)
   - [javascript-algorithms](#javascript-algorithms)
   - [react-loadable](#react-loadable)
+  - [debug](#debug)
+  - [commander.js](#commanderjs)
 - [1. rust](#1-rust)
   - [gentle-intro](#gentle-intro)
   - [rustwasm-book](#rustwasm-book)
@@ -247,6 +249,28 @@
 
 [react-loadable-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/react-loadable-zh.svg
 [react-loadable-zh]: https://github.com/chinanf-boy/react-loadable-zh
+
+### debug 
+
+- [![debug-zh-stars]][debug-zh] | [![low](./low.svg) - ![medium](./medium.svg)📖] `debug` `docs`
+
+[微小的调试器, web与node「翻译」 ][debug-zh]
+
+> 🔗[`debug`英文链接](https://github.com/visionmedia/debug)
+
+[debug-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/debug-zh.svg
+[debug-zh]: https://github.com/chinanf-boy/debug-zh
+
+### commander.js 
+
+- [![commander.js-zh-stars]][commander.js-zh] | [![low](./low.svg) - ![medium](./medium.svg)📖] `commander.js` `docs`
+
+[微小的调试器, web与node「翻译」 ][commander.js-zh]
+
+> 🔗[`commander.js`英文链接](https://github.com/tj/commander.js)
+
+[commander.js-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/commander.js-zh.svg
+[commander.js-zh]: https://github.com/chinanf-boy/commander.js-zh
 
 
 ## 1. rust
