@@ -97,6 +97,10 @@
   - [rustwasm-book](#rustwasm-book)
   - [robinson](#robinson)
   - [rust-ffi-omnibus](#rust-ffi-omnibus)
+  - [fd](#fd)
+  - [hyperfine](#hyperfine)
+  - [bat](#bat)
+  - [tokei](#tokei)
 - [2. go](#2-go)
   - [gx](#gx)
 - [3. ipfs](#3-ipfs)
@@ -111,8 +115,7 @@
   - [awesome-hacking](#awesome-hacking)
   - [awesome-electron](#awesome-electron)
 - [贡献](#%E8%B4%A1%E7%8C%AE)
-  - [重点讲讲 更新](#%E9%87%8D%E7%82%B9%E8%AE%B2%E8%AE%B2-%E6%9B%B4%E6%96%B0)
-  - [我翻译的结构](#%E6%88%91%E7%BF%BB%E8%AF%91%E7%9A%84%E7%BB%93%E6%9E%84)
+- [执照](#%E6%89%A7%E7%85%A7)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -319,6 +322,49 @@
 [rust-ffi-omnibus-stars]: https://img.shields.io/github/stars/chinanf-boy/rust-ffi-omnibus.svg
 [rust-ffi-omnibus]: https://github.com/chinanf-boy/rust-ffi-omnibus
 
+### fd 
+
+- [![fd-zh-stars]][fd-zh] | [![low](./low.svg) - ![medium](./medium.svg)📖] `doc` `find`
+
+[ 一种简单,快速和用户友好的 >find< 替代方案  「翻译」][fd-zh]
+
+> 🔗[`fd`英文链接](https://github.com/sharkdp/fd)
+
+[fd-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/fd-zh.svg
+[fd-zh]: https://github.com/chinanf-boy/fd-zh
+
+### hyperfine 
+
+- [![hyperfine-zh-stars]][hyperfine-zh] | [![low](./low.svg) - ![medium](./medium.svg)📖] `doc` `bench`
+
+[  命令行基准测试工具  「翻译」][hyperfine-zh]
+
+> 🔗[`hyperfine`英文链接](https://github.com/sharkdp/hyperfine)
+
+[hyperfine-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/hyperfine-zh.svg
+[hyperfine-zh]: https://github.com/chinanf-boy/hyperfine-zh
+
+### bat 
+
+- [![bat-zh-stars]][bat-zh] | [![low](./low.svg) - ![medium](./medium.svg)📖] `doc` `bench`
+
+[  一个`cat(1)`克隆与语法高亮和Git集成  「翻译」][bat-zh]
+
+> 🔗[`bat`英文链接](https://github.com/sharkdp/bat)
+
+[bat-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/bat-zh.svg
+[bat-zh]: https://github.com/chinanf-boy/bat-zh
+
+### tokei 
+
+- [![tokei-zh-stars]][tokei-zh] | [![low](./low.svg) - ![medium](./medium.svg)📖] `doc` `code counter`
+
+[  代码信息的统计程序  「翻译」][tokei-zh]
+
+> 🔗[`tokei`英文链接](https://github.com/Aaronepower/tokei)
+
+[tokei-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/tokei-zh.svg
+[tokei-zh]: https://github.com/chinanf-boy/tokei-zh
 
 ## 2. go
 
@@ -429,56 +475,10 @@
 [awesome-electron-zh]: https://github.com/chinanf-boy/awesome-electron-zh
 
 
-
 ## 贡献
 
-`Issue` or `Pull` 😊
+👀[帮忙文档](./CONTRIBUTING.md)
 
-一般来说, 翻译贡献有 三种
+## 执照
 
-- 勘误
-- 校对
-- 更新
-
-### 重点讲讲 更新
-
-|原文|与日期|原文更新|更多
----|---|---|---
-[commit]|2018 **|![last commit][last]|[中文翻译][more]
-
-[commit]:  https://github.com/chinanf-boy/chinese-translate-list
-[last]: https://img.shields.io/github/last-commit/chinanf-boy/chinese-translate-list.svg
-[more]: https://github.com/chinanf-boy/chinese-translate-list
-
-
-我会在, 翻译repo的开头, 放至 源项目的 commit
-
-你可以通过
-
-1. 如果项目留有的 源md文件, 通过直接将新的commit md文件覆盖, 然后翻译即可
-
-
-2. `vscode 和 gitlen`
-
-简单, 观察
-
-3. `git diff`
-
-``` sh
-git diff HEAD 9fdf6d1 readme.md >> my.patch
-```
-
->⚠️ 注意: 更新 新的 commit 🔗
-
-
-### 我翻译的结构
-
-``` sh
-- source/ `repo` 的 git clone, 方便同步
-- fork/   `fork` 给自己之后的 git clone, 方便Pull
-- readme.md 翻译的commit与日期之类的信息
-```
-
-> 绝大多数情况, 我会保留英文原文文件
-
-> 当然, 你可以通过 `git submodule` 来与 英文项目 建立联系
+[MIT](LICENSE)©[yobrave Lee-{LiZhenYong}](http://llever.com)
