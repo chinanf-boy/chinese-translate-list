@@ -92,6 +92,9 @@
   - [react-loadable](#react-loadable)
   - [debug](#debug)
   - [commander.js](#commanderjs)
+  - [remark](#remark)
+  - [lerna](#lerna)
+  - [ky](#ky)
 - [1. rust](#1-rust)
   - [gentle-intro](#gentle-intro)
   - [rustwasm-book](#rustwasm-book)
@@ -114,6 +117,9 @@
   - [awesome-puppeteer](#awesome-puppeteer)
   - [awesome-hacking](#awesome-hacking)
   - [awesome-electron](#awesome-electron)
+  - [awesome-micro-npm-packages](#awesome-micro-npm-packages)
+- [6. Great](#6-great)
+  - [deno](#deno)
 - [贡献](#%E8%B4%A1%E7%8C%AE)
 - [执照](#%E6%89%A7%E7%85%A7)
 
@@ -275,6 +281,38 @@
 [commander.js-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/commander.js-zh.svg
 [commander.js-zh]: https://github.com/chinanf-boy/commander.js-zh
 
+### remark 
+
+- [![remark-zh-stars]][remark-zh] | ![medium](./medium.svg)📖] `remark` `docs`
+
+[ 一个用于处理markdown的插件生态系统「翻译」 ][remark-zh]
+
+> 🔗[`remark`英文链接](https://github.com/remarkjs/remark)
+
+[remark-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/remark-zh.svg
+[remark-zh]: https://github.com/chinanf-boy/remark-zh
+
+### lerna 
+
+- [![lerna-zh-stars]][lerna-zh] | ![medium](./medium.svg)📖] `lerna` `docs`
+
+[用于 管理 拥有多个packages 的 js项目 的工具.「翻译」 ][lerna-zh]
+
+> 🔗[`lerna`英文链接](https://github.com/lerna/lerna)
+
+[lerna-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/lerna-zh.svg
+[lerna-zh]: https://github.com/chinanf-boy/lerna-zh
+
+### ky 
+
+- [![ky-zh-stars]][ky-zh] | ![low](./low.svg)📖] `ky` `docs`
+
+[一个小巧典雅的基于浏览器Fetch API的HTTP客户端.「翻译」 ][ky-zh]
+
+> 🔗[`ky`英文链接](https://github.com/sindresorhus/ky)
+
+[ky-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/ky-zh.svg
+[ky-zh]: https://github.com/chinanf-boy/ky-zh
 
 ## 1. rust
 
@@ -473,6 +511,31 @@
 
 [awesome-electron-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/awesome-electron-zh.svg
 [awesome-electron-zh]: https://github.com/chinanf-boy/awesome-electron-zh
+
+### awesome-micro-npm-packages 
+
+- [![awesome-micro-npm-packages-zh-stars]][awesome-micro-npm-packages-zh] | ![medium](./medium.svg)📖] 
+
+[ 关注小型npm包的列表.「翻译」 ][awesome-micro-npm-packages-zh]
+
+> 🔗[`awesome-micro-npm-packages`英文链接](https://github.com/parro-it/awesome-micro-npm-packages)
+
+[awesome-micro-npm-packages-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/awesome-micro-npm-packages-zh.svg
+[awesome-micro-npm-packages-zh]: https://github.com/chinanf-boy/awesome-micro-npm-packages-zh
+
+## 6. Great
+
+### deno 
+
+- [![deno-zh-stars]][deno-zh] | ![medium](./medium.svg)📖] `ts` `go/rust/python` `runtime` `father of Node`
+
+[ 基于V8构建的安全TypeScript运行时.「翻译」 ][deno-zh]
+
+> 🔗[`deno`英文链接](https://github.com/denoland/deno)
+
+[deno-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/deno-zh.svg
+[deno-zh]: https://github.com/chinanf-boy/deno-zh
+
 
 
 ## 贡献
