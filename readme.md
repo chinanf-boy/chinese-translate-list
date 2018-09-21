@@ -95,6 +95,10 @@
   - [remark](#remark)
   - [lerna](#lerna)
   - [ky](#ky)
+  - [lyo](#lyo)
+  - [meow](#meow)
+  - [xo](#xo)
+  - [vue-scrollto](#vue-scrollto)
 - [1. rust](#1-rust)
   - [gentle-intro](#gentle-intro)
   - [rustwasm-book](#rustwasm-book)
@@ -313,6 +317,50 @@
 
 [ky-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/ky-zh.svg
 [ky-zh]: https://github.com/chinanf-boy/ky-zh
+
+### lyo 
+
+- [![lyo-zh-stars]][lyo-zh] | ![low](./low.svg)📖] `lyo` `docs`
+
+[Node.js变浏览器模块 - 简单的方法.「翻译」 ][lyo-zh]
+
+> 🔗[`lyo`英文链接](https://github.com/bokub/lyo)
+
+[lyo-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/lyo-zh.svg
+[lyo-zh]: https://github.com/chinanf-boy/lyo-zh
+
+### meow 
+
+- [![meow-zh-stars]][meow-zh] | ![low](./low.svg)📖] `meow` `docs`
+
+[cli 命令行帮助库  - 简单的方法.「翻译」 ][meow-zh]
+
+> 🔗[`meow`英文链接](https://github.com/sindresorhus/meow)
+
+[meow-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/meow-zh.svg
+[meow-zh]: https://github.com/chinanf-boy/meow-zh
+
+### xo 
+
+- [![xo-zh-stars]][xo-zh] | ![low](./low.svg)📖] `xo` `docs`
+
+[JavaScript幸福风格的linter「翻译」 ][xo-zh]
+
+> 🔗[`xo`英文链接](https://github.com/xojs/xo)
+
+[xo-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/xo-zh.svg
+[xo-zh]: https://github.com/chinanf-boy/xo-zh
+
+### vue-scrollto 
+
+- [![vue-scrollto-zh-stars]][vue-scrollto-zh] | ![low](./low.svg)📖] `vue-scrollto` `docs`
+
+[ 滚动元素从未如此简单!「翻译」 ][vue-scrollto-zh]
+
+> 🔗[`vue-scrollto`英文链接](https://github.com/rigor789/vue-scrollto)
+
+[vue-scrollto-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/vue-scrollto-zh.svg
+[vue-scrollto-zh]: https://github.com/chinanf-boy/vue-scrollto-zh
 
 ## 1. rust
 
