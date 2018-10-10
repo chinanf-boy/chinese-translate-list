@@ -3,7 +3,7 @@
 [translate-svg]: http://llever.com/translate.svg
 [translate-list]: https://github.com/chinanf-boy/chinese-translate-list
 
-「 在这里应该是共同协作翻译的项目 」
+「 在这里应该是 **共同协作或有趣x的** 翻译项目 」
 
 <p align='right'><img style="width:30%;" src='./translate.PNG' alt='translate list'></p>
 
@@ -122,8 +122,11 @@
   - [awesome-hacking](#awesome-hacking)
   - [awesome-electron](#awesome-electron)
   - [awesome-micro-npm-packages](#awesome-micro-npm-packages)
+  - [awesome-vscode](#awesome-vscode)
 - [6. Great](#6-great)
   - [deno](#deno)
+- [7. Hacker](#7-hacker)
+  - [如何成为黑客](#%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E9%BB%91%E5%AE%A2)
 - [贡献](#%E8%B4%A1%E7%8C%AE)
 - [执照](#%E6%89%A7%E7%85%A7)
 
@@ -571,6 +574,18 @@
 [awesome-micro-npm-packages-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/awesome-micro-npm-packages-zh.svg
 [awesome-micro-npm-packages-zh]: https://github.com/chinanf-boy/awesome-micro-npm-packages-zh
 
+### awesome-vscode 
+
+- [![awesome-vscode-zh-stars]][awesome-vscode-zh] | ![medium](./medium.svg)📖] 
+
+[ 🎨 令人欣喜的VScode包与资源的精选列表.「翻译」 ][awesome-vscode-zh]
+
+> 🔗[`awesome-vscode`英文链接](https://github.com/viatsko/awesome-vscode)
+
+[awesome-vscode-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/awesome-vscode-zh.svg
+[awesome-vscode-zh]: https://github.com/chinanf-boy/awesome-vscode-zh
+
+
 ## 6. Great
 
 ### deno 
@@ -584,7 +599,18 @@
 [deno-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/deno-zh.svg
 [deno-zh]: https://github.com/chinanf-boy/deno-zh
 
+## 7. Hacker
 
+### 如何成为黑客
+
+- [![hacker-howto-stars]][hacker-howto] | ![high](./high.svg)📖] `book` `hacker`
+
+[ 本文原文由知名Hacker `Eric S. Raymond` 所撰写，教你如何成为一名黑客.「翻译 by zer4tul」 ][hacker-howto]
+
+> 🔗[`如何成为黑客`的英文链接](http://www.catb.org/esr/faqs/hacker-howto.html)
+
+[hacker-howto-stars]: https://img.shields.io/github/stars/zer4tul/hacker-howto.svg
+[hacker-howto]: https://github.com/zer4tul/hacker-howto
 
 ## 贡献
 
