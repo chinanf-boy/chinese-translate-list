@@ -100,6 +100,7 @@
   - [xo](#xo)
   - [vue-scrollto](#vue-scrollto)
 - [1. rust](#1-rust)
+  - [Rust 程序设计语言(第二版)](#rust-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%BA%8C%E7%89%88)
   - [gentle-intro](#gentle-intro)
   - [rustwasm-book](#rustwasm-book)
   - [robinson](#robinson)
@@ -367,6 +368,18 @@
 
 ## 1. rust
 
+### Rust 程序设计语言(第二版)
+
+- [![trpl-zh-cn-stars]][trpl-zh-cn] | ![high](./high.svg) ![high](./high.svg)![high](./high.svg)📖] `basic` `book`
+
+[Rust 程序设计语言（第二版） 「翻译 by `KaiserY`」][trpl-zh-cn]
+
+> 🔗[`trpl-zh-cn`英文链接](https://kaisery.github.io/trpl-zh-cn/)
+
+[trpl-zh-cn-stars]: https://img.shields.io/github/stars/KaiserY/trpl-zh-cn.svg
+[trpl-zh-cn]: https://github.com/KaiserY/trpl-zh-cn
+
+
 ### gentle-intro 
 
 - [![gentle-intro-stars]][gentle-intro] | [![high](./high.svg)📖] `book`
@@ -603,9 +616,9 @@
 
 ### 如何成为黑客
 
-- [![hacker-howto-stars]][hacker-howto] | ![high](./high.svg)📖] `book` `hacker`
+- [![hacker-howto-stars]][hacker-howto] | ![high](./high.svg)📖] `book` `hacker` `howto`
 
-[ 本文原文由知名Hacker `Eric S. Raymond` 所撰写，教你如何成为一名黑客.「翻译 by zer4tul」 ][hacker-howto]
+[ 本文原文由知名Hacker `Eric S. Raymond` 所撰写，教你如何成为一名黑客.「翻译 by `zer4tul`」 ][hacker-howto]
 
 > 🔗[`如何成为黑客`的英文链接](http://www.catb.org/esr/faqs/hacker-howto.html)
 
