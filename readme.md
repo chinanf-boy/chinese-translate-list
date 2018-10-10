@@ -111,6 +111,7 @@
   - [tokei](#tokei)
 - [2. go](#2-go)
   - [gx](#gx)
+  - [hub](#hub)
 - [3. ipfs](#3-ipfs)
   - [ipfs/ipfs](#ipfsipfs)
   - [ipfs/go-ipfs](#ipfsgo-ipfs)
@@ -126,6 +127,7 @@
   - [awesome-vscode](#awesome-vscode)
 - [6. Great](#6-great)
   - [deno](#deno)
+  - [gn](#gn)
 - [7. Hacker](#7-hacker)
   - [如何成为黑客](#%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E9%BB%91%E5%AE%A2)
 - [贡献](#%E8%B4%A1%E7%8C%AE)
@@ -481,6 +483,17 @@
 [gx-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/gx-zh.svg
 [gx-zh]: https://github.com/chinanf-boy/gx-zh
 
+### hub
+
+- [![hub-zh-stars]][hub-zh] | ![medium](./medium.svg)-![high](./high.svg)📖]  `docs` `git + hub`
+
+[hub: 让git与github更容易合作 「翻译」][hub-zh]
+
+> 🔗[`hub`英文链接](https://github.com/github/hub)
+
+[hub-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/hub-zh.svg
+[hub-zh]: https://github.com/chinanf-boy/hub-zh
+
 
 ## 3. ipfs
 
@@ -611,6 +624,17 @@
 
 [deno-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/deno-zh.svg
 [deno-zh]: https://github.com/chinanf-boy/deno-zh
+
+### gn
+
+- [![gn-zh-stars]][gn-zh] | ![medium](./medium.svg)📖] `python` `v8构建的一部分`
+
+[ 是一个元构建系统,可以为ninja生成构建文件 {v8-js引擎}.「翻译」 ][gn-zh]
+
+> 🔗[`gn`英文链接 `翻墙`](https://gn.googlesource.com/gn/)
+
+[gn-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/gn-zh.svg
+[gn-zh]: https://github.com/chinanf-boy/gn-zh
 
 ## 7. Hacker
 
