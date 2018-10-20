@@ -112,6 +112,7 @@
 - [2. go](#2-go)
   - [gx](#gx)
   - [hub](#hub)
+  - [go](#go)
 - [3. ipfs](#3-ipfs)
   - [ipfs/ipfs](#ipfsipfs)
   - [ipfs/go-ipfs](#ipfsgo-ipfs)
@@ -494,6 +495,16 @@
 [hub-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/hub-zh.svg
 [hub-zh]: https://github.com/chinanf-boy/hub-zh
 
+### go
+
+- [![go-zh-stars]][go-zh] | [![high](./high.svg)📖]  `docs` `golang.org/docs`
+
+[ Go程序语言 「翻译 by `gnefiy`」][go-zh]
+
+> 🔗[`go`英文链接](https://github.com/golang/go)
+
+[go-zh-stars]: https://img.shields.io/github/stars/gnefiy/go-zh.svg
+[go-zh]: https://github.com/gnefiy/go-zh
 
 ## 3. ipfs
 
