@@ -134,6 +134,7 @@
   - [如何成为黑客](#%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E9%BB%91%E5%AE%A2)
 - [8. Hacking](#8-hacking)
   - [git-extras](#git-extras)
+  - [emoji-cheat-sheet](#emoji-cheat-sheet)
 - [贡献](#%E8%B4%A1%E7%8C%AE)
 - [执照](#%E6%89%A7%E7%85%A7)
 
@@ -688,6 +689,16 @@
 [git-extras-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/git-extras-zh.svg
 [git-extras-zh]: https://github.com/chinanf-boy/git-extras-zh
 
+### emoji-cheat-sheet
+
+- [![emoji-cheat-sheet-zh-stars]][emoji-cheat-sheet-zh] | ![low](./low.svg)📖] `gist` `emoji` `cheat-sheet`
+
+[ Emoji 符号大全 类`:smile:` => :smile: .「不算翻译,就觉得挺好的」 ][emoji-cheat-sheet-zh]
+
+> 🔗[`emoji-cheat-sheet`英文链接 - `翻墙`](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c)
+
+[emoji-cheat-sheet-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/emoji-cheat-sheet-zh.svg
+[emoji-cheat-sheet-zh]: https://github.com/chinanf-boy/emoji-cheat-sheet-zh
 
 ## 贡献
 
