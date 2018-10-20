@@ -131,6 +131,8 @@
   - [gn](#gn)
 - [7. Hacker](#7-hacker)
   - [如何成为黑客](#%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E9%BB%91%E5%AE%A2)
+- [8. Hacking](#8-hacking)
+  - [git-extras](#git-extras)
 - [贡献](#%E8%B4%A1%E7%8C%AE)
 - [执照](#%E6%89%A7%E7%85%A7)
 
@@ -659,6 +661,20 @@
 
 [hacker-howto-stars]: https://img.shields.io/github/stars/zer4tul/hacker-howto.svg
 [hacker-howto]: https://github.com/zer4tul/hacker-howto
+
+## 8. Hacking
+
+### git-extras
+
+- [![git-extras-zh-stars]][git-extras-zh] | ![medium](./medium.svg)📖] `shell` `tj`
+
+[ 小小的 git 助推.「翻译」 ][git-extras-zh]
+
+> 🔗[`git-extras`英文链接](https://github.com/tj/git-extras/)
+
+[git-extras-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/git-extras-zh.svg
+[git-extras-zh]: https://github.com/chinanf-boy/git-extras-zh
+
 
 ## 贡献
 
