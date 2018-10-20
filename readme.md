@@ -113,6 +113,7 @@
   - [gx](#gx)
   - [hub](#hub)
   - [go](#go)
+  - [blackfriday](#blackfriday)
 - [3. ipfs](#3-ipfs)
   - [ipfs/ipfs](#ipfsipfs)
   - [ipfs/go-ipfs](#ipfsgo-ipfs)
@@ -507,6 +508,18 @@
 
 [go-zh-stars]: https://img.shields.io/github/stars/gnefiy/go-zh.svg
 [go-zh]: https://github.com/gnefiy/go-zh
+
+### blackfriday
+
+- [![blackfriday-zh-stars]][blackfriday-zh] | [![low](./low.svg)📖]  `readme` `markdown`
+
+[ 一个markdown处理器，用Go实现 「翻译」][blackfriday-zh]
+
+> 🔗[`blackfriday`英文链接](https://github.com/russross/blackfriday)
+
+[blackfriday-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/blackfriday-zh.svg
+[blackfriday-zh]: https://github.com/chinanf-boy/blackfriday-zh
+
 
 ## 3. ipfs
 
