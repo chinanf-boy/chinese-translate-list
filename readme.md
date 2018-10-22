@@ -99,6 +99,7 @@
   - [meow](#meow)
   - [xo](#xo)
   - [vue-scrollto](#vue-scrollto)
+  - [33-js-concepts](#33-js-concepts)
 - [1. rust](#1-rust)
   - [Rust 程序设计语言(第二版)](#rust-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%BA%8C%E7%89%88)
   - [gentle-intro](#gentle-intro)
@@ -372,6 +373,17 @@
 
 [vue-scrollto-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/vue-scrollto-zh.svg
 [vue-scrollto-zh]: https://github.com/chinanf-boy/vue-scrollto-zh
+
+### 33-js-concepts 
+
+- [![33-js-concepts-zh-stars]][33-js-concepts-zh] | ![medium](./medium.svg)📖] `33-js-concepts` `docs`
+
+[ 每个 JavaScript 工程师都应懂的33个概念!「翻译 by `stephentian`」 ][33-js-concepts-zh]
+
+> 🔗[`33-js-concepts`英文链接](https://github.com/leonardomso/33-js-concepts)
+
+[33-js-concepts-zh-stars]: https://img.shields.io/github/stars/stephentian/33-js-concepts-zh.svg
+[33-js-concepts-zh]: https://github.com/stephentian/33-js-concepts-zh
 
 ## 1. rust
 
