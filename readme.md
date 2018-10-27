@@ -100,6 +100,7 @@
   - [xo](#xo)
   - [vue-scrollto](#vue-scrollto)
   - [33-js-concepts](#33-js-concepts)
+  - [HEAD](#head)
 - [1. rust](#1-rust)
   - [Rust 程序设计语言(第二版)](#rust-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%BA%8C%E7%89%88)
   - [gentle-intro](#gentle-intro)
@@ -115,6 +116,7 @@
   - [hub](#hub)
   - [go](#go)
   - [blackfriday](#blackfriday)
+  - [go-internals](#go-internals)
 - [3. ipfs](#3-ipfs)
   - [ipfs/ipfs](#ipfsipfs)
   - [ipfs/go-ipfs](#ipfsgo-ipfs)
@@ -128,6 +130,7 @@
   - [awesome-electron](#awesome-electron)
   - [awesome-micro-npm-packages](#awesome-micro-npm-packages)
   - [awesome-vscode](#awesome-vscode)
+  - [awesome-algorithm](#awesome-algorithm)
 - [6. Great](#6-great)
   - [deno](#deno)
   - [gn](#gn)
@@ -382,8 +385,19 @@
 
 > 🔗[`33-js-concepts`英文链接](https://github.com/leonardomso/33-js-concepts)
 
-[33-js-concepts-zh-stars]: https://img.shields.io/github/stars/stephentian/33-js-concepts-zh.svg
-[33-js-concepts-zh]: https://github.com/stephentian/33-js-concepts-zh
+[33-js-concepts-zh-stars]: https://img.shields.io/github/stars/stephentian/33-js-concepts.svg
+[33-js-concepts-zh]: https://github.com/stephentian/33-js-concepts
+
+### HEAD 
+
+- [![HEAD-zh-stars]][HEAD-zh] | ![low](./low.svg)📖] `HEAD` `docs`
+
+[ 一份关于任何*可以*写入到你的文档中 `<head>` 部分的清单。「翻译 by `Amery2010`」 ][HEAD-zh]
+
+> 🔗[`HEAD`英文链接](https://github.com/joshbuchea/HEAD)
+
+[HEAD-zh-stars]: https://img.shields.io/github/stars/Amery2010/HEAD.svg
+[HEAD-zh]: https://github.com/Amery2010/HEAD
 
 ## 1. rust
 
@@ -533,6 +547,17 @@
 [blackfriday-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/blackfriday-zh.svg
 [blackfriday-zh]: https://github.com/chinanf-boy/blackfriday-zh
 
+### go-internals
+
+- [![go-internals-stars]][go-internals] | [![medium](./medium.svg)📖]
+
+[ 本书是关于 Go 程序设计语言内部实现原理的阐释，当前正在进行中。 「翻译 by `go-internals-cn`」][go-internals]
+
+> 🔗[`go-internals`英文链接](https://github.com/russross/go-internals)
+
+[go-internals-stars]: https://img.shields.io/github/stars/go-internals-cn/go-internals.svg
+[go-internals]: https://github.com/go-internals-cn/go-internals
+
 
 ## 3. ipfs
 
@@ -649,6 +674,17 @@
 
 [awesome-vscode-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/awesome-vscode-zh.svg
 [awesome-vscode-zh]: https://github.com/chinanf-boy/awesome-vscode-zh
+
+### awesome-algorithm 
+
+- [![awesome-algorithm-stars]][awesome-algorithm] | ![high](./high.svg)📖] 
+
+[ Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现.「不太算翻译，算awesome类 by `apachecn`」 ][awesome-algorithm]
+
+> 🔗[`awesome-algorithm`英文链接](https://github.com/viatsko/awesome-algorithm)
+
+[awesome-algorithm-stars]: https://img.shields.io/github/stars/apachecn/awesome-algorithm.svg
+[awesome-algorithm]: https://github.com/apachecn/awesome-algorithm
 
 
 ## 6. Great
