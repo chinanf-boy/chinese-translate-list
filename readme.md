@@ -101,6 +101,7 @@
   - [vue-scrollto](#vue-scrollto)
   - [33-js-concepts](#33-js-concepts)
   - [HEAD](#head)
+  - [gitmoji-cli](#gitmoji-cli)
 - [1. rust](#1-rust)
   - [Rust 程序设计语言(第二版)](#rust-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%BA%8C%E7%89%88)
   - [gentle-intro](#gentle-intro)
@@ -117,6 +118,7 @@
   - [go](#go)
   - [blackfriday](#blackfriday)
   - [go-internals](#go-internals)
+  - [gitleaks](#gitleaks)
 - [3. ipfs](#3-ipfs)
   - [ipfs/ipfs](#ipfsipfs)
   - [ipfs/go-ipfs](#ipfsgo-ipfs)
@@ -399,6 +401,18 @@
 [HEAD-zh-stars]: https://img.shields.io/github/stars/Amery2010/HEAD.svg
 [HEAD-zh]: https://github.com/Amery2010/HEAD
 
+### gitmoji-cli 
+
+- [![gitmoji-cli-zh-stars]][gitmoji-cli-zh] | ![low](./low.svg)📖] `gitmoji-cli` `docs`
+
+[ 一个gitmoji交互式客户端,用于在`提交消息-commit`上使用 gitmojis。「翻译」 ][gitmoji-cli-zh]
+
+> 🔗[`gitmoji-cli`英文链接](https://github.com/carloscuesta/gitmoji-cli)
+
+[gitmoji-cli-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/gitmoji-cli-zh.svg
+[gitmoji-cli-zh]: https://github.com/chinanf-boy/gitmoji-cli-zh
+
+
 ## 1. rust
 
 ### Rust 程序设计语言(第二版)
@@ -557,6 +571,18 @@
 
 [go-internals-stars]: https://img.shields.io/github/stars/go-internals-cn/go-internals.svg
 [go-internals]: https://github.com/go-internals-cn/go-internals
+
+### gitleaks
+
+- [![gitleaks-zh-stars]][gitleaks-zh] | [![medium](./medium.svg)📖] `keep key safe`
+
+[ 审核git存储库的密码。 「翻译」][gitleaks-zh]
+
+> 🔗[`gitleaks-zh`英文链接](https://github.com/russross/gitleaks-zh)
+
+[gitleaks-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/gitleaks-zh.svg
+[gitleaks-zh]: https://github.com/chinanf-boy/gitleaks-zh
+
 
 
 ## 3. ipfs
