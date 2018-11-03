@@ -119,6 +119,7 @@
   - [blackfriday](#blackfriday)
   - [go-internals](#go-internals)
   - [gitleaks](#gitleaks)
+  - [goreleaser](#goreleaser)
 - [3. ipfs](#3-ipfs)
   - [ipfs/ipfs](#ipfsipfs)
   - [ipfs/go-ipfs](#ipfsgo-ipfs)
@@ -578,10 +579,21 @@
 
 [ 审核git存储库的密码。 「翻译」][gitleaks-zh]
 
-> 🔗[`gitleaks-zh`英文链接](https://github.com/russross/gitleaks-zh)
+> 🔗[`gitleaks`英文链接](https://github.com/russross/gitleaks-zh)
 
 [gitleaks-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/gitleaks-zh.svg
 [gitleaks-zh]: https://github.com/chinanf-boy/gitleaks-zh
+
+### goreleaser
+
+- [![goreleaser-zh-stars]][goreleaser-zh] | [![medium](./medium.svg)-![high](./high.svg)📖] `release` `binary` `useful`
+
+[ 为多个平台构建 Go 二进制文件 「翻译」][goreleaser-zh]
+
+> 🔗[`goreleaser`英文链接](https://github.com/goreleaser/goreleaser)
+
+[goreleaser-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/goreleaser-zh.svg
+[goreleaser-zh]: https://github.com/chinanf-boy/goreleaser-zh
 
 
 
