@@ -121,6 +121,7 @@
   - [gitleaks](#gitleaks)
   - [goreleaser](#goreleaser)
   - [golang-standards/project-layout](#golang-standardsproject-layout)
+  - [gobyexample](#gobyexample)
 - [3. ipfs](#3-ipfs)
   - [ipfs/ipfs](#ipfsipfs)
   - [ipfs/go-ipfs](#ipfsgo-ipfs)
@@ -606,6 +607,18 @@
 
 [project-layout-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/project-layout-zh.svg
 [project-layout-zh]: https://github.com/chinanf-boy/project-layout-zh
+
+### gobyexample
+
+- [![gobyexample-zh-stars]][gobyexample-zh] | [![high](./high.svg)📖] `go` `example`
+
+[ Go By Example ][gobyexample-zh]「翻译 by `everyx`，以及所有[贡献者][gobyexample--contributors]」
+
+> 🔗[`gobyexample`英文链接](https://gobyexample.com/)
+
+[gobyexample--contributors]: https://github.com/xg-wang/gobyexample/graphs/contributors
+[gobyexample-zh-stars]: https://img.shields.io/github/stars/xg-wang/gobyexample.svg
+[gobyexample-zh]: https://github.com/xg-wang/gobyexample
 
 
 ## 3. ipfs
