@@ -120,6 +120,7 @@
   - [go-internals](#go-internals)
   - [gitleaks](#gitleaks)
   - [goreleaser](#goreleaser)
+  - [golang-standards/project-layout](#golang-standardsproject-layout)
 - [3. ipfs](#3-ipfs)
   - [ipfs/ipfs](#ipfsipfs)
   - [ipfs/go-ipfs](#ipfsgo-ipfs)
@@ -595,6 +596,16 @@
 [goreleaser-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/goreleaser-zh.svg
 [goreleaser-zh]: https://github.com/chinanf-boy/goreleaser-zh
 
+### golang-standards/project-layout
+
+- [![project-layout-zh-stars]][project-layout-zh] | [![low](./low.svg)-![medium](./medium.svg)] `project` `layout`
+
+[  这是 GO 应用程序项目的基本布局  「翻译」][project-layout-zh]
+
+> 🔗[`project-layout`英文链接](https://github.com/golang-standards/project-layout)
+
+[project-layout-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/project-layout-zh.svg
+[project-layout-zh]: https://github.com/chinanf-boy/project-layout-zh
 
 
 ## 3. ipfs
