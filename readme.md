@@ -175,7 +175,7 @@
 
 ### react-beautiful-dnd
 
-- [![react-beautiful-dnd-zh-stars]][react-beautiful-dnd-zh] | [![medium](./medium.svg)📖] `docs` `react`
+- [![react-beautiful-dnd-zh-stars]][react-beautiful-dnd-zh] | [![high](./high.svg)📖] `docs` `react`
 
 [react-beautiful-dnd 漂亮,可移植性 列表 React.js 拖拽库 文档 「翻译」][react-beautiful-dnd-zh]
 
