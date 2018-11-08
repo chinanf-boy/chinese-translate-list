@@ -104,6 +104,7 @@
   - [gitmoji-cli](#gitmoji-cli)
 - [1. rust](#1-rust)
   - [Rust 程序设计语言(第二版)](#rust-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%BA%8C%E7%89%88)
+  - [rust-by-example](#rust-by-example)
   - [gentle-intro](#gentle-intro)
   - [rustwasm-book](#rustwasm-book)
   - [robinson](#robinson)
@@ -122,6 +123,8 @@
   - [goreleaser](#goreleaser)
   - [golang-standards/project-layout](#golang-standardsproject-layout)
   - [gobyexample](#gobyexample)
+  - [ferret](#ferret)
+  - [afero](#afero)
 - [3. ipfs](#3-ipfs)
   - [ipfs/ipfs](#ipfsipfs)
   - [ipfs/go-ipfs](#ipfsgo-ipfs)
@@ -429,6 +432,17 @@
 [trpl-zh-cn-stars]: https://img.shields.io/github/stars/KaiserY/trpl-zh-cn.svg
 [trpl-zh-cn]: https://github.com/KaiserY/trpl-zh-cn
 
+### rust-by-example 
+
+- [![rust-by-example-cn-stars]][rust-by-example-cn] | [![high](./high.svg) ![high](./high.svg)📖] `book` `examples`
+
+[Rust by Example 中文版(包含在线代码编辑器)  「翻译 by `rust-lang-cn`」][rust-by-example-cn]
+
+> 🔗[`rust-by-example-cn`英文链接](https://github.com/rust-lang/rust-by-example)
+
+[rust-by-example-cn-stars]: https://img.shields.io/github/stars/rust-lang-cn/rust-by-example-cn.svg
+[rust-by-example-cn]: https://github.com/rust-lang-cn/rust-by-example-cn
+
 
 ### gentle-intro 
 
@@ -619,6 +633,28 @@
 [gobyexample--contributors]: https://github.com/xg-wang/gobyexample/graphs/contributors
 [gobyexample-zh-stars]: https://img.shields.io/github/stars/xg-wang/gobyexample.svg
 [gobyexample-zh]: https://github.com/xg-wang/gobyexample
+
+### ferret
+
+- [![ferret-zh-stars]][ferret-zh] | [![medium](./medium.svg)📖] `web` `query`
+
+[ 具有声明查询的，网络抓取系统。 「翻译」][ferret-zh]
+
+> 🔗[`ferret`英文链接](https://github.com/MontFerret/ferret)
+
+[ferret-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/ferret-zh.svg
+[ferret-zh]: https://github.com/chinanf-boy/ferret-zh
+
+### afero
+
+- [![afero-zh-stars]][afero-zh] | [![medium](./medium.svg)📖] `file` `os` `tmp`
+
+[ Go 的文件系统抽象系统。 「翻译」][afero-zh]
+
+> 🔗[`afero`英文链接](https://github.com/spf13/afero)
+
+[afero-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/afero-zh.svg
+[afero-zh]: https://github.com/chinanf-boy/afero-zh
 
 
 ## 3. ipfs
