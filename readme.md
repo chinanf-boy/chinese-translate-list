@@ -125,6 +125,7 @@
   - [gobyexample](#gobyexample)
   - [ferret](#ferret)
   - [afero](#afero)
+  - [brook](#brook)
 - [3. ipfs](#3-ipfs)
   - [ipfs/ipfs](#ipfsipfs)
   - [ipfs/go-ipfs](#ipfsgo-ipfs)
@@ -655,6 +656,17 @@
 
 [afero-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/afero-zh.svg
 [afero-zh]: https://github.com/chinanf-boy/afero-zh
+
+### brook
+
+- [![brook-zh-stars]][brook-zh] | [![medium](./medium.svg)📖] `vpn` `proxy`
+
+[ Linux / MacOS / Windows 上的 VPN，也许你可以将它用于游戏 「翻译」][brook-zh]
+
+> 🔗[`brook`英文链接](https://github.com/txthinking/brook)
+
+[brook-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/brook-zh.svg
+[brook-zh]: https://github.com/chinanf-boy/brook-zh
 
 
 ## 3. ipfs
