@@ -102,9 +102,11 @@
   - [33-js-concepts](#33-js-concepts)
   - [HEAD](#head)
   - [gitmoji-cli](#gitmoji-cli)
+  - [got](#got)
 - [1. rust](#1-rust)
   - [Rust 程序设计语言(第二版)](#rust-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%BA%8C%E7%89%88)
   - [rust-by-example](#rust-by-example)
+  - [mdbook](#mdbook)
   - [gentle-intro](#gentle-intro)
   - [rustwasm-book](#rustwasm-book)
   - [robinson](#robinson)
@@ -419,6 +421,17 @@
 [gitmoji-cli-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/gitmoji-cli-zh.svg
 [gitmoji-cli-zh]: https://github.com/chinanf-boy/gitmoji-cli-zh
 
+### got 
+
+- [![got-zh-stars]][got-zh] | ![medium](./medium.svg)📖] `got` `docs` `http`
+
+[  简化的HTTP请求「翻译」 ][got-zh]
+
+> 🔗[`got`英文链接](https://github.com/sindresorhus/got)
+
+[got-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/got-zh.svg
+[got-zh]: https://github.com/chinanf-boy/got-zh
+
 
 ## 1. rust
 
@@ -443,6 +456,17 @@
 
 [rust-by-example-cn-stars]: https://img.shields.io/github/stars/rust-lang-cn/rust-by-example-cn.svg
 [rust-by-example-cn]: https://github.com/rust-lang-cn/rust-by-example-cn
+
+### mdbook 
+
+- [![mdbook-stars]][mdbook] | [![medium](./medium.svg)-![high](./high.svg)📖] `book` `mdbook`
+
+[一个从 Markdown 文件，创建现代在线书籍的实用程序 「翻译」][mdbook]
+
+> 🔗[`mdbook`英文链接](https://github.com/rust-lang-nursery/mdBook)
+
+[mdbook-stars]: https://img.shields.io/github/stars/chinanf-boy/mdbook-zh.svg
+[mdbook]: https://github.com/chinanf-boy/mdbook-zh
 
 
 ### gentle-intro 
