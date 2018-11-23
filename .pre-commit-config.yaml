@@ -3,4 +3,4 @@ repos:
     rev: v1.3.1  # substitute a tagged version
     hooks:
     -   id: doctoc
-        args: ["./readme.md","./golang.md"]   
+        args: ["./readme.md","./golang.md","./shell.md","./javascript.md","./rust.md"]   
