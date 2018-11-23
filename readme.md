@@ -92,7 +92,7 @@
   - [33-js-concepts](#33-js-concepts)
   - [HEAD](#head)
   - [got](#got)
-  - [更多 javascript](#%E6%9B%B4%E5%A4%9A-javascript)
+  - [更多-javascript](#%E6%9B%B4%E5%A4%9A-javascript)
 - [1. rust](#1-rust)
   - [Rust 程序设计语言(第二版)](#rust-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%BA%8C%E7%89%88)
   - [rust-by-example](#rust-by-example)
@@ -116,7 +116,7 @@
   - [ferret](#ferret)
   - [afero](#afero)
   - [brook](#brook)
-  - [更多-Rust](#%E6%9B%B4%E5%A4%9A-rust-1)
+  - [更多-Golang](#%E6%9B%B4%E5%A4%9A-golang)
 - [3. ipfs](#3-ipfs)
   - [ipfs/ipfs](#ipfsipfs)
   - [ipfs/go-ipfs](#ipfsgo-ipfs)
@@ -324,7 +324,7 @@
 [got-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/got-zh.svg
 [got-zh]: https://github.com/chinanf-boy/got-zh
 
-### 更多 javascript
+### 更多-javascript
 
 - [./javascript.md](./javascript.md)
 
@@ -557,7 +557,7 @@
 [brook-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/brook-zh.svg
 [brook-zh]: https://github.com/chinanf-boy/brook-zh
 
-### 更多-Rust
+### 更多-Golang
 
 - [./golang.md](./golang.md)
 
