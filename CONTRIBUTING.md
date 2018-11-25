@@ -109,7 +109,7 @@ done
 
 自动将`.mds-list`每个路径,复制到 运行命令目录下，如：
 
-- `source/REAMDE.md` => `./en.md`(防止覆盖了本库的 readme)
-- `source/other.md` => `./other.md`
+- `./source/REAMDE.md` => `./en.md`(防止覆盖了本库的 readme,一定要有`./`前缀)
+- `./source/other.md` => `./other.md`
 
 > 若要更新，需要确保运行`source`的`git pull`
