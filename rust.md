@@ -11,6 +11,10 @@
 - [robinson](#robinson)
 - [rust-ffi-omnibus](#rust-ffi-omnibus)
 - [tokei](#tokei)
+- [structopt](#structopt)
+- [pax](#pax)
+- [curl-rust](#curl-rust)
+- [httptest](#httptest)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -68,3 +72,47 @@
 
 [tokei-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/tokei-zh.svg
 [tokei-zh]: https://github.com/chinanf-boy/tokei-zh
+
+### structopt
+
+- [![structopt-zh-stars]][structopt-zh] | [![low](./low.svg)📖] `doc` `cli args`
+
+[ 通过定义结构来解析命令行参数 「翻译」][structopt-zh]
+
+> 🔗[`structopt`英文链接](https://github.com/TeXitoi/structopt)
+
+[structopt-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/structopt-zh.svg
+[structopt-zh]: https://github.com/chinanf-boy/structopt-zh
+
+### pax
+
+- [![pax-zh-stars]][pax-zh] | [![low](./low.svg)📖] `doc` `js bundler`
+
+[ 星系最快的 JavaScript 捆绑器 「翻译」][pax-zh]
+
+> 🔗[`pax`英文链接](https://github.com/nathan/pax)
+
+[pax-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/pax-zh.svg
+[pax-zh]: https://github.com/chinanf-boy/pax-zh
+
+### curl-rust
+
+- [![curl-rust-zh-stars]][curl-rust-zh] | [![low](./low.svg)📖] `doc` `libcurl binding`
+
+[ libcurl 的 Rust 绑定库 「翻译」][curl-rust-zh]
+
+> 🔗[`curl-rust`英文链接](https://github.com/alexcrichton/curl-rust)
+
+[curl-rust-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/curl-rust-zh.svg
+[curl-rust-zh]: https://github.com/chinanf-boy/curl-rust-zh
+
+### httptest
+
+- [![httptest-zh-stars]][httptest-zh] | [![medium](./medium.svg)📖] `doc` `http server example`
+
+[ 使用 Iron 和 Hyper 的 Rust Web 服务示例 「翻译」][httptest-zh]
+
+> 🔗[`httptest`英文链接](https://github.com/brson/httptest)
+
+[httptest-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/httptest-zh.svg
+[httptest-zh]: https://github.com/chinanf-boy/httptest-zh

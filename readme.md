@@ -96,6 +96,7 @@
 - [1. rust](#1-rust)
   - [Rust 程序设计语言(第二版)](#rust-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%BA%8C%E7%89%88)
   - [rust-by-example](#rust-by-example)
+  - [cargo-book](#cargo-book)
   - [mdbook](#mdbook)
   - [gentle-intro](#gentle-intro)
   - [rustwasm-book](#rustwasm-book)
@@ -124,6 +125,8 @@
   - [TypeScript-React-Starter](#typescript-react-starter)
   - [TypeScript-Node-Starter](#typescript-node-starter)
   - [TypeScript-Vue-Starter](#typescript-vue-starter)
+  - [BLeak](#bleak)
+  - [typedoc](#typedoc)
 - [5. awesome](#5-awesome)
   - [awesome-puppeteer](#awesome-puppeteer)
   - [awesome-hacking](#awesome-hacking)
@@ -139,6 +142,7 @@
 - [8. Hacking](#8-hacking)
   - [git-extras](#git-extras)
   - [emoji-cheat-sheet](#emoji-cheat-sheet)
+  - [the_silver_searcher](#the_silver_searcher)
 - [9. shell](#9-shell)
   - [更多-Shell](#%E6%9B%B4%E5%A4%9A-shell)
 - [贡献](#%E8%B4%A1%E7%8C%AE)
@@ -351,6 +355,17 @@
 
 [rust-by-example-cn-stars]: https://img.shields.io/github/stars/rust-lang-cn/rust-by-example-cn.svg
 [rust-by-example-cn]: https://github.com/rust-lang-cn/rust-by-example-cn
+
+### cargo-book
+
+- [![cargo-book-stars]][cargo-book] | [![medium](./medium.svg)-![high](./high.svg)📖] `book` `cargo`
+
+[Cargo 官书文档,非官方翻译(草稿版)][cargo-book]
+
+> 🔗[`cargo-book`英文链接](https://github.com/rust-lang/cargo/tree/master/src/doc)
+
+[cargo-book-stars]: https://img.shields.io/github/stars/chinanf-boy/cargo-book-zh.svg
+[cargo-book]: https://github.com/chinanf-boy/cargo-book-zh
 
 ### mdbook
 
@@ -620,6 +635,29 @@
 [typescript-vue-starter-stars]: https://img.shields.io/github/stars/chinanf-boy/TypeScript-Vue-Starter.svg
 [typescript-vue-starter]: https://github.com/chinanf-boy/TypeScript-Vue-Starter
 
+### BLeak
+
+- [![BLeak-stars]][bleak] | [![low](./low.svg)📖] `template` `内存检测`
+
+[自动调试 Web 应用程序中的内存泄漏 ][bleak]
+
+> 🔗[`BLeak`英文链接](https://github.com/plasma-umass/BLeak)
+
+[bleak-stars]: https://img.shields.io/github/stars/chinanf-boy/BLeak-zh.svg
+[bleak]: https://github.com/chinanf-boy/BLeak-zh
+
+### typedoc
+
+- [![typedoc-stars]][typedoc] | [![low](./low.svg)📖] `ts` `doc web viewer`
+
+[TypeScript 项目的文档生成器 ][typedoc]
+
+> 🔗[`typedoc`英文链接](https://github.com/TypeStrong/typedoc)
+
+[typedoc-stars]: https://img.shields.io/github/stars/chinanf-boy/typedoc-zh.svg
+[typedoc]: https://github.com/chinanf-boy/typedoc-zh
+
+
 ## 5. awesome
 
 ### awesome-puppeteer
@@ -748,6 +786,18 @@
 
 [emoji-cheat-sheet-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/emoji-cheat-sheet-zh.svg
 [emoji-cheat-sheet-zh]: https://github.com/chinanf-boy/emoji-cheat-sheet-zh
+
+### the_silver_searcher
+
+- [![the_silver_searcher-zh-stars]][the_silver_searcher-zh] | ![medium](./medium.svg)📖] `shell` `tj`
+
+[ （ag）类似 ack 的代码搜索工具,专注于速度.「翻译」 ][the_silver_searcher-zh]
+
+> 🔗[`the_silver_searcher`英文链接](https://github.com/ggreer/the_silver_searcher)
+
+[the_silver_searcher-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/the_silver_searcher-zh.svg
+[the_silver_searcher-zh]: https://github.com/chinanf-boy/the_silver_searcher-zh
+
 
 ## 9. shell
 

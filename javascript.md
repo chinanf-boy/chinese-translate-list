@@ -16,6 +16,8 @@
 - [taskbook](#taskbook)
 - [terminalizer](#terminalizer)
 - [ffmpeg-concat](#ffmpeg-concat)
+- [doctoc](#doctoc)
+- [wdio-starter-kit](#wdio-starter-kit)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -128,3 +130,25 @@
 
 [ffmpeg-concat-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/ffmpeg-concat-zh.svg
 [ffmpeg-concat-zh]: https://github.com/chinanf-boy/ffmpeg-concat-zh
+
+### doctoc
+
+- [![doctoc-zh-stars]][doctoc-zh] | [![low](./low.svg)📖] `toc` `md` `docs`
+
+[生成，markdown 文件(*.md)的超链接目录「翻译」 ][doctoc-zh]
+
+> 🔗[`doctoc`英文链接](https://github.com/thlorenz/doctoc)
+
+[doctoc-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/doctoc-zh.svg
+[doctoc-zh]: https://github.com/chinanf-boy/doctoc-zh
+
+### wdio-starter-kit
+
+- [![wdio-starter-kit-zh-stars]][wdio-starter-kit-zh] | [![low](./low.svg)📖] `WebdriverIO` `web test` `example`
+
+[使用 TravisCI, Sauce Labs 和 视觉回归测试，一个 快速设置 WebdriverIO 测试脚本的 模版库「翻译」 ][wdio-starter-kit-zh]
+
+> 🔗[`wdio-starter-kit`英文链接](https://github.com/klamping/wdio-starter-kit)
+
+[wdio-starter-kit-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/wdio-starter-kit-zh.svg
+[wdio-starter-kit-zh]: https://github.com/chinanf-boy/wdio-starter-kit-zh

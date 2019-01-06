@@ -81,20 +81,23 @@ git diff HEAD 9fdf6d1 readme.md >> my.patch
 <summary>详细代码</summary>
 
 ```sh
-cat './.mds-list' | while read line
+cat './.mds-list' | while read line || [[ -n ${line} ]]
 do
     testseq="zh.md"
     if [[ $line =~ $testseq || "$line" == "" ]]; then
         echo "skip $line"
     else
-        source_readme="./source/readme.md"
         lowline=`echo "$line" | awk '{print tolower($0)}'`
+        # lowwer string
         zh=${line//source\//}
         dir=$(dirname $zh)
-        # source/readme.md => en.md
+        
+        source_readme="./source/readme.md"
         if [[ $lowline == $source_readme ]];then
+        # source/[readme|REAMDE].md => en.md
         filename="en.md"
-        else
+        else 
+        # source/other.md => ./other.md
         filename=$(basename $zh)
         fi
         echo "$line >> $dir/$filename"

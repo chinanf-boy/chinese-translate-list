@@ -8,6 +8,8 @@
 
 - [goawk](#goawk)
 - [webtty](#webtty)
+- [go-getter](#go-getter)
+- [dive](#dive)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -32,3 +34,25 @@
 
 [webtty-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/webtty-zh.svg
 [webtty-zh]: https://github.com/chinanf-boy/webtty-zh
+
+### go-getter
+
+- [![go-getter-zh-stars]][go-getter-zh] | [![low](./low.svg)- ![medium](./medium.svg)📖] `docs` `zip get`
+
+[ 获取资源 「翻译」][go-getter-zh]
+
+> 🔗[`go-getter`英文链接](https://github.com/hashicorp/go-getter)
+
+[go-getter-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/go-getter-zh.svg
+[go-getter-zh]: https://github.com/chinanf-boy/go-getter-zh
+
+### dive
+
+- [![dive-zh-stars]][dive-zh] | [![low](./low.svg)- ![medium](./medium.svg)📖] `docs` `docker handle`
+
+[ 用于探索 docker 镜像,图层内容以及发现缩小 Docker 镜像大小的方法的工具 「翻译」][dive-zh]
+
+> 🔗[`dive`英文链接](https://github.com/wagoodman/dive)
+
+[dive-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/dive-zh.svg
+[dive-zh]: https://github.com/chinanf-boy/dive-zh
