@@ -97,6 +97,7 @@
   - [Rust 程序设计语言(第二版)](#rust-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E8%AF%AD%E8%A8%80%E7%AC%AC%E4%BA%8C%E7%89%88)
   - [rust-by-example](#rust-by-example)
   - [cargo-book](#cargo-book)
+  - [rustc](#rustc)
   - [mdbook](#mdbook)
   - [gentle-intro](#gentle-intro)
   - [rustwasm-book](#rustwasm-book)
@@ -366,6 +367,17 @@
 
 [cargo-book-stars]: https://img.shields.io/github/stars/chinanf-boy/cargo-book-zh.svg
 [cargo-book]: https://github.com/chinanf-boy/cargo-book-zh
+
+### rustc
+
+- [![rustc-zh-stars]][rustc-zh] | [![medium](./medium.svg)📖] `rustc` `simple book`
+
+[ Rustc 简书 「翻译」][rustc]
+
+> 🔗[`rustc`英文链接](https://github.com/rust-lang-nursery/rustc)
+
+[rustc-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/rustc-zh.svg
+[rustc-zh]: https://github.com/chinanf-boy/rustc-zh
 
 ### mdbook
 
@@ -657,7 +669,6 @@
 [typedoc-stars]: https://img.shields.io/github/stars/chinanf-boy/typedoc-zh.svg
 [typedoc]: https://github.com/chinanf-boy/typedoc-zh
 
-
 ## 5. awesome
 
 ### awesome-puppeteer
@@ -797,7 +808,6 @@
 
 [the_silver_searcher-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/the_silver_searcher-zh.svg
 [the_silver_searcher-zh]: https://github.com/chinanf-boy/the_silver_searcher-zh
-
 
 ## 9. shell
 
