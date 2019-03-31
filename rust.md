@@ -15,6 +15,7 @@
 - [pax](#pax)
 - [curl-rust](#curl-rust)
 - [httptest](#httptest)
+- [shiplift](#shiplift)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -116,3 +117,14 @@
 
 [httptest-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/httptest-zh.svg
 [httptest-zh]: https://github.com/chinanf-boy/httptest-zh
+
+### shiplift
+
+- [![shiplift-zh-stars]][shiplift-zh] | [![low](./low.svg)📖] `doc` `docker handle`
+
+[ 操控docker容器的一个 Rust 接口 「翻译」][shiplift-zh]
+
+> 🔗[`shiplift`英文链接](https://github.com/softprops/shiplift)
+
+[shiplift-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/shiplift-zh.svg
+[shiplift-zh]: https://github.com/chinanf-boy/shiplift-zh
