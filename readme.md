@@ -41,27 +41,29 @@
 
 如果某个项目 书/文档 没有翻译中文, 而我想, 大家想
 
-我会,在我[完成初稿](#tool),且校对了一遍之后, 向官方提交`Pull Request`
+我会，在我[完成初稿](#tool)，且校对了一遍之后， 向官方提交`Pull Request`
 
-提交通过了, 那么项目的`readme.md`会多了条网络链接 或者 直接成为项目的一员`readme.zh***.md`
+提交通过了， 那么项目的`readme.md`会多了条网络链接 或者 直接成为项目的一员`readme.zh***.md`
 
-> 这可以说, 有一部分不负责地快速占领的意味, 因为我的翻译不总是尽如人意
+> 这可以说， 有一部分不负责地快速占领的意味， 因为我的翻译不总是尽如人意
 
-之后, 就要靠 Github 这个大集体了,我做那`60%`, 其他的就交给 `issue` / `pull`啦 😊 你说好 🐴
+之后， 就要靠 Github 这个大集体了，我做那`60%`， 其他的就交给 `issue` / `pull`啦 😊 你说好 🐴
 
 我想这一点才是重点 ❤
 
 ## 计划
 
-将所有翻译 移到 组织, 名字没想好,
+将所有翻译 移到 组织， 名字没想好，
 
-那到时, 希望就不再是一个人的事情了
+那到时， 希望就不再是一个人的事情了
 
 ## tool
 
-绝大多数情况, 我会使用 [translate-mds](https://github.com/chinanf-boy/translate-mds) 完成初稿
+绝大多数情况， 我会使用 [translate-mds](https://github.com/chinanf-boy/translate-mds) 完成初稿
 
-[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
+[营养快线来一瓶 💰](https://github.com/chinanf-boy/live-need-money)
+
+> 本人快饿死，随性且随缘更新。
 
 ### 翻译复杂级别
 
