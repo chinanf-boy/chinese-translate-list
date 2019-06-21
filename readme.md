@@ -400,7 +400,7 @@
 
 - [![rust-cookbook-zh-stars]][rust-cookbook-zh] | [![medium](./high.svg)📖] `rust-cookbook` `examples`
 
-[ rust-cookbook 简书 「翻译」][rust-cookbook]
+[ rust-cookbook 之书 「翻译」][rust-cookbook]
 
 > 🔗[`rust-cookbook`英文链接](https://github.com/rust-lang-nursery/rust-cookbook)
 
@@ -409,9 +409,9 @@
 
 ### cli-wg
 
-- [![cli-wg-zh-stars]][cli-wg-zh] | [![medium](./high.svg)📖] `cli-wg` `book`
+- [![cli-wg-zh-stars]][cli-wg-zh] | [![medium](./medium.svg)📖] `cli-wg` `book`
 
-[ cli-wg 简书 「翻译」][cli-wg]
+[ cli-wg 之书 「翻译」][cli-wg]
 
 > 🔗[`cli-wg`英文链接](https://github.com/rust-lang-nursery/cli-wg)
 
@@ -420,7 +420,7 @@
 
 ### rustdoc
 
-- [![rustdoc-zh-stars]][rustdoc-zh] | [![medium](./high.svg)📖] `rustdoc` `book`
+- [![rustdoc-zh-stars]][rustdoc-zh] | [![medium](./medium.svg)📖] `rustdoc` `book`
 
 [ rustdoc 简书 「翻译」][rustdoc]
 
