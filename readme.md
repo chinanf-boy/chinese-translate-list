@@ -102,6 +102,7 @@
   - [cargo-book](#cargo-book)
   - [rustc](#rustc)
   - [rust-cookbook](#rust-cookbook)
+  - [cli-wg](#cli-wg)
   - [mdbook](#mdbook)
   - [gentle-intro](#gentle-intro)
   - [rustwasm-book](#rustwasm-book)
@@ -405,6 +406,16 @@
 [rust-cookbook-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/rust-cookbook-zh.svg
 [rust-cookbook-zh]: https://github.com/chinanf-boy/rust-cookbook-zh
 
+### cli-wg
+
+- [![cli-wg-zh-stars]][cli-wg-zh] | [![medium](./high.svg)📖] `cli-wg` `book`
+
+[ cli-wg 简书 「翻译」][cli-wg]
+
+> 🔗[`cli-wg`英文链接](https://github.com/rust-lang-nursery/cli-wg)
+
+[cli-wg-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/cli-wg-zh.svg
+[cli-wg-zh]: https://github.com/chinanf-boy/cli-wg-zh
 
 ### mdbook
 
