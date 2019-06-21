@@ -101,6 +101,7 @@
   - [rust-by-example](#rust-by-example)
   - [cargo-book](#cargo-book)
   - [rustc](#rustc)
+  - [rust-cookbook](#rust-cookbook)
   - [mdbook](#mdbook)
   - [gentle-intro](#gentle-intro)
   - [rustwasm-book](#rustwasm-book)
@@ -392,6 +393,18 @@
 
 [rustc-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/rustc-zh.svg
 [rustc-zh]: https://github.com/chinanf-boy/rustc-zh
+
+### rust-cookbook
+
+- [![rust-cookbook-zh-stars]][rust-cookbook-zh] | [![medium](./high.svg)📖] `rust-cookbook` `examples`
+
+[ rust-cookbook 简书 「翻译」][rust-cookbook]
+
+> 🔗[`rust-cookbook`英文链接](https://github.com/rust-lang-nursery/rust-cookbook)
+
+[rust-cookbook-zh-stars]: https://img.shields.io/github/stars/chinanf-boy/rust-cookbook-zh.svg
+[rust-cookbook-zh]: https://github.com/chinanf-boy/rust-cookbook-zh
+
 
 ### mdbook
 
